@@ -7,7 +7,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #2F1A36;
+    background-color: #ffffff00;
     /* padding: 15px; */
     margin-right: 10px;
     align-items: center;
@@ -43,3 +43,17 @@ main {
 }
 
 /* Footer styles */
+footer {
+    height: 100px;
+    padding: 0;
+    background-color: #ffffff00;
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    color: white;
+}
+
+footer a {
+    list-style: none;
+    text-decoration: none;
+}
