@@ -34,7 +34,7 @@ header {
 
 /* Main */
 main {
-    background-image: url();
+    background-image: url("../SVG/Vector.svg");
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
